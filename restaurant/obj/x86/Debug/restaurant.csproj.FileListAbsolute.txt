@@ -1,0 +1,12 @@
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\bin\x86\Debug\restaurant.exe.config
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\bin\x86\Debug\restaurant.exe
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\bin\x86\Debug\restaurant.pdb
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\x86\Debug\restaurant.GirisEkrani.resources
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\x86\Debug\restaurant.GarsonEkrani.resources
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\x86\Debug\restaurant.KasiyerEkrani.resources
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\x86\Debug\restaurant.PatronEkrani.resources
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\x86\Debug\restaurant.Properties.Resources.resources
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\x86\Debug\restaurant.csproj.GenerateResource.Cache
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\x86\Debug\restaurant.exe
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\x86\Debug\restaurant.pdb
+C:\Users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\x86\Debug\restaurant.csprojResolveAssemblyReference.cache

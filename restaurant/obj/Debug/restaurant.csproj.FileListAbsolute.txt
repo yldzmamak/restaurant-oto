@@ -1,0 +1,9 @@
+c:\users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.exe.config
+c:\users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.exe
+c:\users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\bin\Debug\restaurant.pdb
+c:\users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.csprojResolveAssemblyReference.cache
+c:\users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Form1.resources
+c:\users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.Properties.Resources.resources
+c:\users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.csproj.GenerateResource.Cache
+c:\users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.exe
+c:\users\yldzmamak\documents\visual studio 2015\Projects\restaurant\restaurant\obj\Debug\restaurant.pdb
